@@ -3,7 +3,7 @@
 Atividade de Page Object promovida pelo Bootcamp
 It Talent - Trilha de  QA. Nesta atividade é preciso fazer
 Scripts de teste automatizado para essa 
-[PÁGINA DE TESTES](https://the-internet.herokuapp.com/login)
+[PÁGINA DE TESTES AUTOMATIZADOS](https://the-internet.herokuapp.com/login)
 usando os princípios do Page Object.
 
 ## Ferramentas
